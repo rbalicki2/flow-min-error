@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "flow-bin": "^0.47.0",
+    "flow-typed": "^2.1.2"
+  },
+  "scripts": {
+    "flow-typed": "flow-typed"
+  }
+}
